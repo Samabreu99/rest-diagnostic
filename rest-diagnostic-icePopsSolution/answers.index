@@ -1,0 +1,14 @@
+#Question 1 
+- REST is used to design web API's, you can create different routes in order for other 
+developers to see your work without having to go deep into your code.
+
+#Question 2
+- POST '/movies'
+GET '/movies'
+GET '/movies/:id'
+PATCH '/movies/:id'
+DELETE '/movies/:id'
+
+#Question 3
+- It makes your code easier to read, the conventions do all the work for you so you dont have to worry about 
+routes and i wouldnt recommend using REST if you need to make constant changes in your API.
